@@ -1,9 +1,12 @@
 # lib/app.py
 print("Hello world!", end=" ")
-print("Pass this test," end=", ")
-print("please", end=".\n ")
+print("Pass this test,")
+print("please.", end="\n")
 
-print("Hello world!")
+print(("Hello world! Pass this test, please."))
+
+
+print("Hello World!")
 #print("Hello sun!")
 #print("Hello sky")
 
